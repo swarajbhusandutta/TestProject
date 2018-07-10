@@ -4,7 +4,7 @@
 
   <groupId>com.db</groupId>
   <artifactId>SampleHelloWorld</artifactId>
-  <version>sampletestapplication-1</version>
+  <version>SampleHelloWorld<-1</version>
   <packaging>war</packaging>
 
   <url>http://maven.apache.org</url>
